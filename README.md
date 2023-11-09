@@ -1,4 +1,4 @@
-# CS4-MU11
+# CS4-MU11 (main branch)
 * ## Q1
   - Exercise 01: Using basic data types
   - Exercise 02: Classes
